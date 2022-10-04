@@ -1,0 +1,2 @@
+The first code exercise taught to noobs.
+Hello World!
